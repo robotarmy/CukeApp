@@ -1,0 +1,13 @@
+   Basic Kit for Testing an outside app with Cucumber
+
+
+   dependencies :
+
+   Firefox 
+   gem install capybara
+   gem install cucumber
+
+   http://www.google.com to contain 'Google'
+   
+
+
